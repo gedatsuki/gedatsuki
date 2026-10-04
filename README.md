@@ -4,6 +4,7 @@ You'll probably find me doing lab activities, honing my penetration testing skil
 - 📜 Licensed Electronics Engineer (ECE) & Electronics Technician (ECT)
 - 🔒 CompTIA Security+ Certified
  
+
 I believe the best way to learn cybersecurity is by building, breaking, analyzing, and constantly staying curious.
  
 ## Current Interests
