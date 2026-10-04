@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**gedatsuki/gedatsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Renz 👋
+ 
+You'll probably find me doing lab activities, honing my penetration testing skills, exploring new attack techniques, and continuously learning something new in cybersecurity.
+ 
+📜 Licensed Electronics Engineer (ECE) & Electronics Technician (ECT)
+🔒 CompTIA Security+ Certified
+ 
+I believe the best way to learn cybersecurity is by building, breaking, analyzing, and constantly staying curious.
+ 
+## Current Interests
+ 
+- Offensive Security
+- Penetration Testing
+- Threat Hunting
+- Red Team Operations
+ 
+> Always learning. Always improving. Always curious.
