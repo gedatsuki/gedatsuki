@@ -13,4 +13,3 @@ I believe the best way to learn cybersecurity is by building, breaking, analyzin
 - Threat Hunting
 - Red Team Operations
  
-> Always learning. Always improving. Always curious.
