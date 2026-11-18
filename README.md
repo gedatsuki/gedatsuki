@@ -8,8 +8,7 @@ You'll probably find me doing lab activities, honing my penetration testing skil
 I believe the best way to learn cybersecurity is by building, breaking, analyzing, and constantly staying curious.
  
 ## Current Interests
-- Offensive Security
 - Penetration Testing
+- Bug Bounty
 - Threat Hunting
-- Red Team Operations
  
