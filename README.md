@@ -11,4 +11,4 @@ I believe the best way to learn cybersecurity is by building, breaking, analyzin
 - Penetration Testing
 - Bug Bounty
 - Threat Hunting
- 
+- CTFs
